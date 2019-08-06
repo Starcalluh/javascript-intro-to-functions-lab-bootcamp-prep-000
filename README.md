@@ -1,3 +1,4 @@
+const babel = require('expert');
 JavaScript Intro to Functions Lab
 ---
 
